@@ -1,9 +1,27 @@
-# React TypeScript Starter Pack
+Todo App
 
-To use this template click `Use this template`
+Project Overview
 
-### Available Scripts
+The Todo Application is a simple yet effective and convenient task management tool developed using modern technologies such as React and TypeScript. React provides modularity and ensures dynamic, responsive interaction with the interface, making the application smooth and enjoyable to use. TypeScript adds an additional layer of code safety, helping to prevent many errors and simplifying maintenance. As a result, the application offers users high performance, adaptability across devices, and an intuitive interface that makes task management both simple and effective.
 
-`Deploy` - available to deploy your application to gh-pages
+Preview
+Todo App
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+
+Technologies Used
+HTML5
+CSS3 (SCSS)
+JavaScript (ES6)
+React
+TypeScript
+API Integration
+Additional Launch Instructions
+Fork original repository on GitHub
+
+Clone the forked repository: git clone [DEMO LINK](https://MariaKolisnyk.github.io/react_add-todo-formM/)
+
+Navigate to the project directory: cd todo-app-react-ts
+
+Install the necessary project dependencies: npm install
+
+Start the project: npm start
